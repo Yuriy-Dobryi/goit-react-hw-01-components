@@ -1,15 +1,12 @@
-.online {
+.status {
   width: 15px;
   height: 15px;
-  background-color: #51AD55;
   border-radius: 20px;
+  background-color: #FD5157;
 }
 
-.offline {
-  width: 15px;
-  height: 15px;
-  background-color: #FD5157;
-  border-radius: 20px;
+.online {
+  background-color: #51AD55;
 }
 
 .avatar {
