@@ -1,0 +1,23 @@
+.online {
+  width: 15px;
+  height: 15px;
+  background-color: #51AD55;
+  border-radius: 20px;
+}
+
+.offline {
+  width: 15px;
+  height: 15px;
+  background-color: #FD5157;
+  border-radius: 20px;
+}
+
+.avatar {
+  width: 48px;
+}
+
+.name {
+  width: 50px;
+  font-size: 16px;
+  font-weight: 600;
+}
