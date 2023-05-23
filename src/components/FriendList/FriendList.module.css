@@ -14,3 +14,28 @@
   background-color: white;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, .4);
 }
+
+
+#status {
+  width: 15px;
+  height: 15px;
+  border-radius: 20px;
+}
+
+.online {
+  background-color: #51AD55;
+}
+
+.offline {
+  background-color: #FD5157;
+}
+
+.avatar {
+  width: 48px;
+}
+
+.name {
+  width: 50px;
+  font-size: 16px;
+  font-weight: 600;
+}
